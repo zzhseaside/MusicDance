@@ -1,0 +1,14 @@
+{
+  "ver": "1.1.45",
+  "importer": "prefab",
+  "imported": true,
+  "uuid": "7ef27815-d4db-4b05-8300-9be20eadd4ed",
+  "files": [
+    ".json"
+  ],
+  "subMetas": {},
+  "userData": {
+    "syncNodeName": "MusicItem",
+    "persistent": true
+  }
+}
