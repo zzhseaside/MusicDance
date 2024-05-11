@@ -28,7 +28,9 @@ export class Music extends Component {
 
         // @ts-ignore
         window.AudioContext = window.AudioContext || window.webkitAudioContext || window.mozAudioContext || window.msAudioContext;
+    }
 
+    onClickPlay(){
         let AudioContext = window.AudioContext;
         // audioContext 只相当于一个容器。
         this.audioContext = new AudioContext();
